@@ -1,0 +1,7 @@
+{
+    "name": "Electroghar",
+    "namespace": "Theme\\Electroghar\\",
+    "description": "Electroghar - Laravel Ecommerce System",
+    "author": "Botble Technologies",
+    "required_plugins": []
+}
